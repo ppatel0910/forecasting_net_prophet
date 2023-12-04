@@ -6,26 +6,13 @@
 #### - Visual depictions of seasonality (as measured by Google Search traffic) that are of interest to the company.
 
 
-An evaluation of how the company stock price correlates to its Google Search traffic.
+#### - An evaluation of how the company stock price correlates to its Google Search traffic.
 
 
-A Prophet forecast model that can predict hourly user search traffic.
+#### - A Prophet forecast model that can predict hourly user search traffic.
 
 
-Answers to the questions in the instructions that you write in your Jupyter notebook.
+#### - Answers to the questions in the instructions that you write in your Jupyter notebook.
 
 
-(Optional) A plot of a forecast for the company’s future revenue.
-
-
-When you finish, you’ll push your final notebook to your GitHub repository so that others can review your work.
-You’ll gain proficiency in the following tasks:
-
-
-Identifying patterns in time series data.
-
-
-Mining for patterns in seasonality by using visualizations.
-
-
-Building sales-forecast and user-interest predictive models.
+#### - (Optional) A plot of a forecast for the company’s future revenue.
